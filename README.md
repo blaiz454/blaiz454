@@ -1,16 +1,60 @@
-## Hi there 👋
+Hi, I'm Endy
 
-<!--
-**blaiz454/blaiz454** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Developer • Unity Game Developer • AI Enthusiast
 
-Here are some ideas to get you started:
+I'm passionate about building high-quality software, immersive games, and AI-powered applications. I enjoy solving challenging problems and turning ideas into polished products.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Current Projects
+
+Operation Revenant
+
+Tactical third-person military shooter built with Unity.
+Focused on modular architecture, advanced combat systems, and immersive gameplay.
+
+Brotato Clone
+
+Recreating Brotato from scratch in Unity to master gameplay systems and architecture.
+
+TRADEXA
+
+B2B Wholesale Marketplace designed for wholesalers and retailers.
+Includes inventory optimization, supplier management, logistics, and analytics.
+
+MediaOrbit
+
+Movie & TV recommendation platform built using React, Flask, and the TMDB API.
+ Tech Stack
+
+Languages
+
+C#
+JavaScript
+Python
+HTML
+CSS
+
+Frameworks
+
+React
+Flask
+Unity
+
+Tools
+
+Git
+GitHub
+MongoDB
+Blender
+VS Code
+Unity
+Ollama
+
+ Currently Learning
+Advanced Unity Architecture
+Multiplayer Systems
+AI Agents
+Computer Graphics
+ Reach Me
+
+GitHub:
+github.com/blaiz454
